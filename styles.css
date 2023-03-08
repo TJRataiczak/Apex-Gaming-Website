@@ -33,3 +33,8 @@ body {
 .leaderboard {
     text-align: center;
 }
+
+.twitter-timeline {
+    width: 500px;
+    height: 500px;
+}
