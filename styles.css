@@ -44,3 +44,23 @@ body {
     bottom: 0;
     width: 100%;
 }
+
+.fa-twitter {
+    color: cyan;
+}
+
+.fa-facebook {
+    color: blue;
+}
+
+.fa-discord {
+    color: purple;
+}
+
+.fa-youtube {
+    color: red;
+}
+
+.fa-twitch {
+    color: purple;
+}
