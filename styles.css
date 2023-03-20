@@ -40,27 +40,17 @@ body {
 }
 
 .bottom-icons {
-    position: absolute;
-    bottom: 0;
-    width: 100%;
+    position: fixed;
+    left: 50%;
+    bottom: 20px;
+    transform: translate(-50%, -50%);
+    margin: 0 auto;
 }
 
-.fa-twitter {
-    color: cyan;
+.bottom-icons a {
+    margin: 10px;
 }
 
-.fa-facebook {
-    color: blue;
-}
-
-.fa-discord {
-    color: purple;
-}
-
-.fa-youtube {
-    color: red;
-}
-
-.fa-twitch {
-    color: purple;
+.fa-brands {
+    color: white;
 }
