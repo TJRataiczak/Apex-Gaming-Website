@@ -1,3 +1,24 @@
-body {
-    background-color: gray;
+.apex-logo img {
+    height: 150px;
+}
+
+.left-flex {
+    display: flex;
+    flex-direction: column;
+}
+
+.left-flex a {
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    font-size: x-large;
+}
+
+.main-flex {
+    display: flex;
+}
+
+.right-flex {
+    display: flex;
+    margin: 100px;
 }
