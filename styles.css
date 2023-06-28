@@ -5,13 +5,15 @@
 .left-flex {
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    background-color: black;
 }
 
 .left-flex a {
     text-decoration: none;
-    color: black;
+    color: white;
     text-align: center;
-    font-size: x-large;
+    font-size: 70px;
 }
 
 .main-flex {
