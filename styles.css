@@ -1,12 +1,17 @@
+body {
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+    background-color: black;
+}
+
 .apex-logo img {
     height: 150px;
 }
 
 .left-flex {
     display: flex;
-    flex-direction: column;
-    justify-content: center;
-    background-color: black;
+    justify-content: space-evenly;
+    background-color: grey;
 }
 
 .left-flex a {
@@ -18,9 +23,9 @@
 
 .main-flex {
     display: flex;
+    flex-direction: column;
 }
 
 .right-flex {
     display: flex;
-    margin: 100px;
 }
