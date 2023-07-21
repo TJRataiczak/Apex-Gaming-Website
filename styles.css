@@ -41,10 +41,15 @@ img {
 }
 
 .left-flex h1, 
-.left-flex h2 {
+.left-flex h2,
+.left-flex p {
     text-align: center;
 }
 
 footer {
     text-align: center;
+}
+
+.fa-brands {
+    color: black;
 }
