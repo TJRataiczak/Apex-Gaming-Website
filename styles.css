@@ -1,16 +1,38 @@
+body {
+    background-color: #21dde2;
+}
+
 .nav-bar {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: gray;
+    background-color: black;
+    border-radius: 20px;
 }
 
 .nav-links {
     display: flex;
     list-style: none;
     font-size: 40px;
+    gap: 40px;
+    padding-right: 50px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: white;
 }
 
 img {
     height: 100px;
+    padding-left: 40px;
+}
+
+.main-wrapper {
+    display: flex;
+}
+
+.left-flex h1, 
+.left-flex h2 {
+    text-align: center;
 }
