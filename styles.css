@@ -13,7 +13,7 @@ body {
 .nav-links {
     display: flex;
     list-style: none;
-    font-size: 40px;
+    font-size: 30px;
     gap: 40px;
     padding-right: 50px;
 }
@@ -24,7 +24,7 @@ body {
 }
 
 img {
-    height: 100px;
+    height: 80px;
     padding-left: 40px;
 }
 
@@ -32,7 +32,19 @@ img {
     display: flex;
 }
 
+.left-flex {
+    width: 50%;
+}
+
+.right-flex {
+    width: 50%;
+}
+
 .left-flex h1, 
 .left-flex h2 {
+    text-align: center;
+}
+
+footer {
     text-align: center;
 }
