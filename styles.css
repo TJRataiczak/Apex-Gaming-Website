@@ -60,3 +60,28 @@ footer {
     border-radius: 20px;
     margin: 10px;
 }
+
+.schedule {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto;
+    padding: 15px;
+}
+
+.schedule-header {
+    font-weight: bold;
+}
+
+.schedule-content {
+    border: 2px solid;
+}
+
+.schedule-header,
+.schedule-content {
+    text-align: center;
+    padding: 2px;
+}
+
+.left-flex .white-background {
+    padding-left: 15px;
+    padding-right: 15px;
+}
