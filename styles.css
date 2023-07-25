@@ -32,6 +32,7 @@ img {
 
 .main-wrapper {
     display: flex;
+    flex: 1fr 1fr;
 }
 
 .left-flex {
@@ -62,6 +63,10 @@ footer {
     color: #262626;
 }
 
+.fa-brands:hover {
+    color: white;
+}
+
 .white-background {
     border-radius: 20px;
     margin: 10px;
@@ -83,6 +88,7 @@ footer {
 .schedule-content {
     text-align: center;
     padding: 2px;
+    border-bottom: 1px solid white;
 }
 
 .left-flex .white-background {
