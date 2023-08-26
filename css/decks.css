@@ -1,0 +1,19 @@
+.main-wrapper {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding-top: 1rem;
+    gap: .5rem;
+}
+
+.left-wrapper,
+.right-wrapper {
+    background-color: #262626;
+    border-radius: 1rem;
+    padding-bottom: 1rem;
+}
+
+.left-wrapper a,
+.right-wrapper a {
+    color: white;
+}
