@@ -1,6 +1,7 @@
 body {
     background-color: #21dde2;
     font-family: 'Roboto', sans-serif;
+    color: white;
 }
 
 .nav-bar {
@@ -8,15 +9,15 @@ body {
     justify-content: space-between;
     align-items: center;
     background-color: #262626;
-    border-radius: 20px;
+    border-radius: 1rem;
 }
 
 .nav-links {
     display: flex;
     list-style: none;
-    font-size: 1.8rem;
+    font-size: 1.2rem;
     gap: 1.5rem;
-    padding-right: 50px;
+    padding-right: 1.5rem;
 }
 
 .nav-links a {
@@ -25,74 +26,43 @@ body {
 }
 
 img {
-    height: 80px;
-    margin-left: 40px;
-    border-radius: 20px;
+    height: 5rem;
+    padding-left: 1.5rem;
+    height: 50px;
 }
 
-.main-wrapper {
-    display: flex;
-    flex: 1fr 1fr;
-    flex-wrap: wrap;
+.wrapper {
+    text-align: center;
 }
 
-.left-flex {
+.left-wrapper {
     background-color: #262626;
-    color: white;
-    width: 50%;
-    border-radius: 20px;
-    margin: 10px;
-    padding: 10px;
+    border-radius: 1rem;
+    margin-top: 1rem;
+    padding: 1rem;
+    line-height: 2rem;
 }
 
-.right-flex {
-    color: white;
-    width: 50%;
+.left-wrapper ul,
+.left-wrapper ol {
+    text-align: left;
 }
 
-.left-flex h1, 
-.left-flex h2,
-.left-flex p {
-    text-align: center;
-}
-
-footer {
-    text-align: center;
-}
-
-.fa-brands {
-    color: #262626;
-}
-
-.fa-brands:hover {
-    color: white;
-}
-
-.white-background {
-    border-radius: 20px;
-    margin: 10px;
-}
-
-.schedule {
+.right-wrapper {
     display: grid;
-    grid-template-columns: auto auto auto auto auto auto auto;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    font-size: .45rem;
     background-color: #262626;
-    border-radius: 20px;
-    padding: 15px;
+    border-radius: 1rem;
+    margin-top: .5rem;
+    padding: 1rem;
 }
 
 .schedule-header {
-    font-weight: bold;
-}
- 
-.schedule-header,
-.schedule-content {
-    text-align: center;
-    padding: 2px;
-    border-bottom: 1px solid white;
+    font-size: .6rem;
 }
 
-.left-flex .white-background {
-    padding-left: 15px;
-    padding-right: 15px;
+.schedule-header,
+.schedule-content {
+    border-bottom: 1px white solid;
 }

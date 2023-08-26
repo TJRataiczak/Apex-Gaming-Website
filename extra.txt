@@ -1,0 +1,293 @@
+<div class="schedule-header">Store</div>
+          <div class="schedule-header">Location</div>
+          <div class="schedule-header">Date</div>
+          <div class="schedule-header">Time</div>
+          <div class="schedule-header">Format</div>
+          <div class="schedule-header">Type</div>
+          <div class="schedule-header">Qualified</div>
+          <!--Row divider-->
+          <div class="schedule-content">Taitan Game Shop</div>
+          <div class="schedule-content">Coraopolis, PA</div>
+          <div class="schedule-content">May 20</div>
+          <div class="schedule-content">9:00 AM</div>
+          <div class="schedule-content">Legacy</div>
+          <div class="schedule-content">AIQ</div>
+          <div class="schedule-content">Jesse Campbell<br>Marshall Arthurs</div>
+          <!--Row divider-->
+          <div class="schedule-content">The Board Room</div>
+          <div class="schedule-content">Hurricane, WV</div>
+          <div class="schedule-content">June 3</div>
+          <div class="schedule-content">12:00 PM</div>
+          <div class="schedule-content">Pioneer</div>
+          <div class="schedule-content">AIQ/RCQ</div>
+          <div class="schedule-content">Missing</div>
+          <!--Row divider-->
+          <div class="schedule-content">The Goblin Traders</div>
+          <div class="schedule-content">Ironton, OH</div>
+          <div class="schedule-content">June 10</div>
+          <div class="schedule-content">1:00 PM</div>
+          <div class="schedule-content">Modern</div>
+          <div class="schedule-content">AIQ</div>
+          <div class="schedule-content">Conner Roth<br>Dave Lovins</div>
+          <!--Row divider-->
+          <div class="schedule-content">Apex Gaming</div>
+          <div class="schedule-content">Caldwell, OH</div>
+          <div class="schedule-content">June 17</div>
+          <div class="schedule-content">11:00 AM</div>
+          <div class="schedule-content">Modern</div>
+          <div class="schedule-content">AIQ/RCQ</div>
+          <div class="schedule-content"></div>
+          <!--Row divider-->
+          <div class="schedule-content">Apex Gaming</div>
+          <div class="schedule-content">Caldwell, OH</div>
+          <div class="schedule-content">June 18</div>
+          <div class="schedule-content">11:00 AM</div>
+          <div class="schedule-content">Pioneer</div>
+          <div class="schedule-content">AIQ/RCQ</div>
+          <div class="schedule-content"></div>
+          <!--Row divider-->
+          <div class="schedule-content">Swords & Boards</div>
+          <div class="schedule-content">Radcliff, KY</div>
+          <div class="schedule-content">June 18</div>
+          <div class="schedule-content">12:00 PM</div>
+          <div class="schedule-content">Modern</div>
+          <div class="schedule-content">AIQ</div>
+          <div class="schedule-content">Eddie Vaughan<br>Jacob Claxton</div>
+          <!--Row divider-->
+          <div class="schedule-content">Castle Games</div>
+          <div class="schedule-content">Columbus, IN</div>
+          <div class="schedule-content">June 24</div>
+          <div class="schedule-content">1:00 PM</div>
+          <div class="schedule-content">Commander</div>
+          <div class="schedule-content">AIQ</div>
+          <div class="schedule-content">Joe Graw<br>Dave Graw</div>
+          <!--Row divider-->
+          <div class="schedule-content">The Warp Gate</div>
+          <div class="schedule-content">Westerville, OH</div>
+          <div class="schedule-content">July 1</div>
+          <div class="schedule-content">11:00 AM</div>
+          <div class="schedule-content">Modern</div>
+          <div class="schedule-content">AIQ</div>
+          <div class="schedule-content"></div>
+          <!--Row divider-->
+          <div class="schedule-content">Castle Games</div>
+          <div class="schedule-content">Columbus, IN</div>
+          <div class="schedule-content">July 22</div>
+          <div class="schedule-content">1:00 PM</div>
+          <div class="schedule-content">Modern</div>
+          <div class="schedule-content">AIQ</div>
+          <div class="schedule-content">David Koon<br>Ryan Miller</div>
+          <!--Row divider-->
+          <div class="schedule-content">Taitan Game Shop</div>
+          <div class="schedule-content">Coraopolis, PA</div>
+          <div class="schedule-content">July 22</div>
+          <div class="schedule-content">11:00 AM</div>
+          <div class="schedule-content">Modern</div>
+          <div class="schedule-content">AIQ</div>
+          <div class="schedule-content">Kellan Drogowski<br>Kevin Fieber</div>
+          <!--Row divider-->
+          <div class="schedule-content">Castle Games @ GenCon</div>
+          <div class="schedule-content">Columbus, IN</div>
+          <div class="schedule-content">August 6</div>
+          <div class="schedule-content">11:00 AM</div>
+          <div class="schedule-content">Modern</div>
+          <div class="schedule-content">AIQ</div>
+          <div class="schedule-content">TBD</div>
+          <!--Row divider-->
+          <div class="schedule-content">Apex Gaming</div>
+          <div class="schedule-content">Caldwell, OH</div>
+          <div class="schedule-content">August 12</div>
+          <div class="schedule-content">11:00 AM</div>
+          <div class="schedule-content">Modern</div>
+          <div class="schedule-content">AIQ/RCQ</div>
+          <div class="schedule-content">TBD</div>
+          <!--Row divider-->
+          <div class="schedule-content">Apex Gaming</div>
+          <div class="schedule-content">Caldwell, OH</div>
+          <div class="schedule-content">August 13</div>
+          <div class="schedule-content">11:00 AM</div>
+          <div class="schedule-content">Pioneer</div>
+          <div class="schedule-content">AIQ/RCQ</div>
+          <div class="schedule-content">TBD</div>
+          <!--Row divider-->
+          <div class="schedule-content">Adventure Gaming</div>
+          <div class="schedule-content">Zanesville, OH</div>
+          <div class="schedule-content">August 19</div>
+          <div class="schedule-content">11:00 AM</div>
+          <div class="schedule-content">Modern</div>
+          <div class="schedule-content">AIQ</div>
+          <div class="schedule-content">TBD</div>
+          <!--Row divider-->
+          <div class="schedule-content">Apex Gaming</div>
+          <div class="schedule-content">Caldwell, OH</div>
+          <div class="schedule-content">September 9</div>
+          <div class="schedule-content">11:00 AM</div>
+          <div class="schedule-content">Modern</div>
+          <div class="schedule-content">AIQ</div>
+          <div class="schedule-content">TBD</div>
+          <!--Row divider-->
+          <div class="schedule-content">Apex Gaming</div>
+          <div class="schedule-content">Caldwell, OH</div>
+          <div class="schedule-content">September 10</div>
+          <div class="schedule-content">11:00 AM</div>
+          <div class="schedule-content">Pioneer</div>
+          <div class="schedule-content">AIQ</div>
+          <div class="schedule-content">TBD</div>
+          <!--Row divider-->
+          <div class="schedule-content">Total Gaming Experience</div>
+          <div class="schedule-content">Chillicothe, OH</div>
+          <div class="schedule-content">September 17</div>
+          <div class="schedule-content">12:00 PM</div>
+          <div class="schedule-content">Modern</div>
+          <div class="schedule-content">AIQ</div>
+          <div class="schedule-content">TBD</div>
+          <!--Row divider-->
+          <div class="schedule-content">The Board Room</div>
+          <div class="schedule-content">Hurricane, WV</div>
+          <div class="schedule-content">October 14</div>
+          <div class="schedule-content">12:00 PM</div>
+          <div class="schedule-content">Modern</div>
+          <div class="schedule-content">AIQ</div>
+          <div class="schedule-content">TBD</div>
+          <!--Row divider-->
+          <div class="schedule-content">Swords & Boards</div>
+          <div class="schedule-content">Radcliff, KY</div>
+          <div class="schedule-content">October 15</div>
+          <div class="schedule-content">12:00 PM</div>
+          <div class="schedule-content">Modern</div>
+          <div class="schedule-content">AIQ</div>
+          <div class="schedule-content">TBD</div>
+          <!--Row divider-->
+          <div class="schedule-content">Apex Gaming</div>
+          <div class="schedule-content">Caldwell, OH</div>
+          <div class="schedule-content">October 28</div>
+          <div class="schedule-content">11:00 AM</div>
+          <div class="schedule-content">Modern</div>
+          <div class="schedule-content">AIQ</div>
+          <div class="schedule-content">TBD</div>
+          <!--Row divider-->
+          <div class="schedule-content">Apex Gaming</div>
+          <div class="schedule-content">Caldwell, OH</div>
+          <div class="schedule-content">October 29</div>
+          <div class="schedule-content">11:00 AM</div>
+          <div class="schedule-content">Pioneer</div>
+          <div class="schedule-content">AIQ</div>
+          <div class="schedule-content">TBD</div>
+          <!--Row divider-->
+          <div class="schedule-content">Total Gaming Experience</div>
+          <div class="schedule-content">Chillicothe, OH</div>
+          <div class="schedule-content">November 5</div>
+          <div class="schedule-content">12:00 PM</div>
+          <div class="schedule-content">Modern</div>
+          <div class="schedule-content">AIQ</div>
+          <div class="schedule-content">TBD</div>
+          <!--Row divider-->
+          <div class="schedule-content">Apex Gaming</div>
+          <div class="schedule-content">Caldwell, OH</div>
+          <div class="schedule-content">November 17</div>
+          <div class="schedule-content">5:00 PM</div>
+          <div class="schedule-content">Modern</div>
+          <div class="schedule-content">LCQ</div>
+          <div class="schedule-content">TBD</div>
+          <!--Row divider-->
+          <div class="schedule-content">Apex Gaming</div>
+          <div class="schedule-content">Caldwell, OH</div>
+          <div class="schedule-content">November 18</div>
+          <div class="schedule-content">11:00 AM</div>
+          <div class="schedule-content">Modern</div>
+          <div class="schedule-content">LCQ</div>
+          <div class="schedule-content">TBD</div>
+          <!--Row divider-->
+          <div class="schedule-content">Apex Gaming</div>
+          <div class="schedule-content">Caldwell, OH</div>
+          <div class="schedule-content">November 18</div>
+          <div class="schedule-content">5:00 PM</div>
+          <div class="schedule-content">Pioneer</div>
+          <div class="schedule-content">LCQ</div>
+          <div class="schedule-content">TBD</div>
+
+
+
+
+
+
+
+<h1>Apex Gaming Invitational Info</h1>
+          <p>
+            The Apex Gaming Invitational Series is a Magic: the Gathering series
+            hosted by participating local game stores. The Invitational will be
+            hosted at Apex Gaming on Nov 19<sup>th</sup>, 2023! You might be
+            asking, "What are the details and how do I qualify?" Check out the
+            info below:
+          </p>
+          <h2>What is the Invitational?</h2>
+          <ul>
+            <li>Invite only, (zero entry fee) Modern MTG tournament.</li>
+            <li>
+              Swiss tournament structure with a cut to top 8. Top 8 will be
+              best of 3 with the finals being best of 5. Higher sees will get
+              choice of play/draw. Top 8 will be open decklist.
+            </li>
+            <li>$20,000 in prizes!</li>
+            <li>
+              Trophy will be awarded to the champion at the conclusion of the
+              Invitational.
+            </li>
+          </ul>
+          <h2>How do I qualify for the Invitational?</h2>
+          <ul>
+            <li>
+              Play at any Apex Invitational Qualifier (AIQ) at any of the
+              participating stores to win qualifications to the Invitational in
+              November.
+            </li>
+            <li>
+              The top 2 finishers will get an invite to the Invitational (if
+              someone is already qualified it will pass to the next highest
+              non-qualified finisher of that tournament).
+            </li>
+            <li>
+              There will be three last chance qualifiers (LCQs). One on Friday,
+              Nov 17<sup>th</sup> and two on Saturday, Nov 18<sup>th</sup>.
+              Friday, Nov 17<sup>th</sup> will be a Modern LCQ starting at 5pm.
+              Saturday will be a Modern LCQ starting at 11am with a Pioneer LCQ
+              starting at 5pm. Each of these events will be 5 rounds of swiss
+              awarding a minimum of 4 spots each to the Invitational.
+            </li>
+            <li>
+              The Season 2 winner already recieved an invite to the Season 3
+              Invitational. The Season 3 winner will be invited to the Season 4
+              Invitational.
+            </li>
+            <li>
+              Formats and payouts of the individual AIQs will be determined by
+              the hosting store.
+            </li>
+          </ul>
+
+
+
+
+
+
+
+<footer>
+      <a href="https://www.facebook.com/apex.gaming.esports" target="_blank"
+        ><i class="fa-brands fa-facebook fa-2xl"></i
+      ></a>
+      <a href="https://www.twitter.com/apexgamingMTG" target="_blank"
+        ><i class="fa-brands fa-twitter fa-2xl"></i
+      ></a>
+      <a href="https://discord.gg/FXFGN4D" target="_blank"
+        ><i class="fa-brands fa-discord fa-2xl"></i
+      ></a>
+      <a href="https://www.twitch.tv/apexgaming" target="_blank"
+        ><i class="fa-brands fa-twitch fa-2xl"></i
+      ></a>
+      <a href="https://www.youtube.com/c/ApexGamingEsports" target="_blank"
+        ><i class="fa-brands fa-youtube fa-2xl"></i
+      ></a>
+      <a href="https://www.tiktok.com/@apex_gaming_esports" target="_blank"
+        ><i class="fa-brands fa-tiktok fa-2xl"></i
+      ></a>
+    </footer>
