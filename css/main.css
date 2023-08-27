@@ -1,5 +1,7 @@
 body {
     background-image: linear-gradient(#21dde2, lightblue);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     font-family: "Roboto", sans-serif;
     color: white;
   }

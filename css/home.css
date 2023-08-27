@@ -23,7 +23,7 @@
 .right-wrapper {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-  font-size: 0.45rem;
+  font-size: 0.65rem;
   background-color: #262626;
   border-radius: 1rem;
   margin-top: 0.5rem;
